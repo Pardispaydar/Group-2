@@ -1,8 +1,6 @@
 # Group-2
 The repository of our project
-## Canva Design
+## Our Canva Design
 
-Check out our design [here]([https://www.canva.com/your-design-link](https://github.com/Pardispaydar/Group-2.git).
-git add README.md
-git commit -m "Add Canva design link"
-git push
+Check out our design [here](https://www.canva.com/design/DAG0MvMgyt0/mwAiAAt3uQA0uE06Oj8vlQ/view)
+
