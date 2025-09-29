@@ -1,5 +1,5 @@
 # Group-2
 The repository of our project
-## Our Canva Design
+## Canva Design
 
-Check out our  design [here](https://www.canva.com/design/your-design-link).
+Check out our design [here](https://www.canva.com/your-design-link).
